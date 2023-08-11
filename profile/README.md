@@ -6,6 +6,4 @@ Neko-World alias Neko-World Network est un reseaux regroupant plusieurs projet.
 
 2. Inari
 
-3. ACNH
-
 #EN COURS DE REDACTION
